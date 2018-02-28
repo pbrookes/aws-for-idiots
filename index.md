@@ -6,7 +6,7 @@ A short history of Amazon Web Services is contained in this [TechCrunch article]
 
 ## What does this mean for normal folk?
 
-For a normal person, AWS is cheap and powerful. Unfortunately it's aimed at developers and is therefore hard to set up and configure, which is why I've written this site.
+For a normal person, AWS is cheap and powerful. Unfortunately it's aimed at developers and is therefore difficult for the average person to set up and configure, which is why I've written this site.
 
 Here are some useful things you can do with AWS:
 
