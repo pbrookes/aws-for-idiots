@@ -10,7 +10,7 @@ For a normal person, AWS is cheap and powerful. Unfortunately it's aimed at deve
 
 Here are some useful things you can do with AWS:
 
-* Hosting websites
+* Hosting your websites
 * Storing files online
 * Managing web domains and subdomains
 * Sending and receiving email through a custom domain. You can also configure GMail as your email client
