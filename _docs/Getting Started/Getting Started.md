@@ -1,6 +1,5 @@
 ---
-title: Bobbins
-category: Contact Syncing
+title: Getting Started
 order: 1
 ---
 
