@@ -8,7 +8,7 @@ A short history of Amazon Web Services is contained in this [TechCrunch article]
 
 For a normal person, AWS is cheap and powerful. Unfortunately it's aimed at developers and is therefore hard to set up and configure, which is why I've written this site.
 
-Here's some things you can do with AWS:
+Here are some useful things you can do with AWS:
 
 * Hosting websites
 * Storing files online
