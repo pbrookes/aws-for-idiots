@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: AWS for Idiots
+url: "http://aws-for-idiots.paulbrookes.net"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
