@@ -6,7 +6,7 @@ A short history of Amazon Web Services is contained in this [TechCrunch article]
 
 ## What does this mean for normal folk?
 
-AWS is cheap, powerful and extremely flexible. Unfortunately the interface and documentation are aimed at developers and it's  difficult for the average person to set up and configure, which is why I've written this site-I made the mistakes so you don't have to.
+AWS is cheap, powerful and extremely flexible. Unfortunately the interface and documentation are aimed at developers and it's  difficult for the average person to set up and configure, which is why I've written this site—I made all the mistakes so you don't have to.
 
 Here are some useful things you can do with AWS:
 
