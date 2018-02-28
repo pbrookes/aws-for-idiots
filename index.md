@@ -16,4 +16,4 @@ Here's some things you can do with AWS:
 * Sending and receiving email through a custom domain. You can also configure GMail as your email client
 * Use Amazon's free SSL service, which means you can have https:// hosting and the nice padlock in your address bar
 
-The elephant in the room here is WordPress (and maybe Drupal and Joomla), which rely on scripting and databases to function. Although you *can* use AWS to host a WordPress site, setting this up and maintaining it is too hard.
+The elephant in the room here is WordPress (and maybe Drupal and Joomla), which rely on scripting and databases to function. Although you *can* use AWS to host a WordPress site, setting this up and maintaining it is too complicated for me.
