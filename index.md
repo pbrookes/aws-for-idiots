@@ -6,7 +6,7 @@ A short history of Amazon Web Services is contained in this [TechCrunch article]
 
 ## What does this mean for normal folk?
 
-For a normal person, AWS is cheap and powerful. Unfortunately it's aimed at developers and is therefore hard to configure for normal people, which is why I've written this site.
+For a normal person, AWS is cheap and powerful. Unfortunately it's aimed at developers and is therefore hard to set up and configure, which is why I've written this site.
 
 Here's some things you can do with AWS:
 
@@ -15,3 +15,5 @@ Here's some things you can do with AWS:
 * Managing web domains and subdomains
 * Sending and receiving email through a custom domain. You can also configure GMail as your email client
 * Use Amazon's free SSL service, which means you can have https:// hosting and the nice padlock in your address bar
+
+The elephant in the room here is WordPress (and maybe Drupal and Joomla), which rely on scripting and databases to function. Although you *can* use AWS to host a WordPress site, setting this up and maintaining it is too hard.
