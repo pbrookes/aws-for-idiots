@@ -4,7 +4,7 @@ title: About Amazon Web Services
 
 > **NOTE**: In case you've come across this site via a Google search, it is still being written. I'm on the case, honest!
 
-A short history of Amazon Web Services is contained in this [TechCrunch article](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/). Amazon was expanding fast and their infrastructure was struggling to cope. Inadvertently they became experts on data centre technology and became the darlings of cloud computing.
+A short history of Amazon Web Services is contained in this [TechCrunch article](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/). Amazon was expanding fast and their infrastructure was struggling to cope. Inadvertently they became experts on data centre technology and the darlings of cloud computing.
 
 ## What does this mean for normal folk?
 
