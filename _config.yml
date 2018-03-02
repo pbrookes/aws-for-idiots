@@ -18,7 +18,7 @@ social:
   name: Edition Template
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
-    markdown: kramdown
+   
 
 # -----
 
@@ -28,7 +28,7 @@ discus-identifier: aws-for-idiots
 # Build
 
 timezone: Etc/UTC
-
+markdown: kramdown
 permalink: pretty
 
 plugins:
