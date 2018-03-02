@@ -4,7 +4,7 @@ category: Getting Started
 order: 3
 ---
 
-Go to <https://aws.amazon.com/console>, then go to **My Account** > **AWS Management Console** in the top menu bar.
+Go to [aws.amazon.com/console](https://aws.amazon.com/console), then go to **My Account** > **AWS Management Console** in the top menu bar.
 
 You will then be prompted to log in with your Amazon account. If you don't already have one, you can also register here.
 
