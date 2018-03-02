@@ -12,6 +12,6 @@ You will then be confronted by a baffling number of AWS services; if they are no
 
 The ones we're interested in are:
 
-1. Storage > S3
-2. Network & Content Delivery > Route 53
-3. Network & Content Delivery > Cloudfront
+1. Storage > [S3](https://s3.console.aws.amazon.com/s3)
+2. Network & Content Delivery > Route [53](https://console.aws.amazon.com/route53)
+3. Network & Content Delivery > [Cloudfront](https://console.aws.amazon.com/cloudfront)
