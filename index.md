@@ -1,5 +1,6 @@
 ---
 title: About Amazon Web Services
+comments: true
 ---
 
 > **NOTE**: In case you've come across this site via a Google search, it is still being written. I'm on the case, honest!
