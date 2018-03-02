@@ -23,6 +23,6 @@ The elephant in the room here is WordPress (and maybe Drupal and Joomla), which 
 
 Although you *can* use AWS to host a WordPress site, setting this up and maintaining it is simply too complicated for me.
 
-___
+<hr>
 
 <sup id="fn1">1. If you *only* need secure hosting, then check out [Cloudflare](https://www.cloudflare.com), who offer free certificates. It's also easier to set up than the AWS flavour<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
