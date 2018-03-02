@@ -7,7 +7,7 @@ comments: true
 
 A short history of Amazon Web Services is contained in this [TechCrunch article](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/). Amazon was expanding fast and their infrastructure was struggling to cope. Inadvertently they became experts on data centre technology and the darlings of cloud computing.
 
-## What does this mean for normal folk?
+## What Does This Mean for Normal Folk?
 
 AWS is cheap, powerful and extremely flexible. Unfortunately the interface and documentation are aimed at developers and it's  difficult for the average person to set up and configure, which is why I've written this site—I made all the mistakes so you don't have to.
 
@@ -24,4 +24,4 @@ The elephant in the room here is WordPress (and maybe Drupal and Joomla), which 
 Although you *can* use AWS to host a WordPress site, setting this up and maintaining it is simply too complicated for me.
 
 <hr>
-<sup id="fn1">1. If you *only* need secure hosting, then check out [Cloudflare](https://www.cloudflare.com), who offer free certificates. It's also easier to set up than the AWS flavour<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. If you *only* need secure hosting, then check out [Cloudflare](https://www.cloudflare.com), who offer free certificates. It's also easier to set up than the AWS flavour<a href="#ref1" title="Jump back to footnote 1 in the text."></a></sup>
