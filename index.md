@@ -17,10 +17,10 @@ Here are some useful things you can do with AWS:
 * Storing files online
 * Managing web domains and subdomains
 * Sending and receiving email through a custom domain (à la <paul@example.com>). You can also configure GMail as your email client
-* Use Amazon's free SSL service, which means you get an encrypted secure connection, `https://` in your URL, that nice padlock in your address bar and better Google page rankings.[^1]
+* Use Amazon's free SSL service, which means you get an encrypted secure connection, `https://` in your URL, that nice padlock in your address bar and better Google page rankings.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 The elephant in the room here is WordPress (and maybe Drupal and Joomla), which relies on server-side scripting and databases to function—the methods described here are for static websites only. 
 
 Although you *can* use AWS to host a WordPress site, setting this up and maintaining it is simply too complicated for me.
 
-[^1] If you *only* need secure hosting, then check out [Cloudflare](https://www.cloudflare.com), who offer free certificates. It's also easier to set up than the AWS version
+<sup id="fn1">1. [If you *only* need secure hosting, then check out [Cloudflare](https://www.cloudflare.com), who offer free certificates. It's also easier to set up than the AWS version]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
