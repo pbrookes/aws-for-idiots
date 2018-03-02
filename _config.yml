@@ -20,6 +20,10 @@ social:
     - https://github.com/CloudCannon/edition-jekyll-template
 
 # -----
+
+# Disqus
+discus-identifier: aws-for-idiots
+
 # Build
 
 timezone: Etc/UTC
