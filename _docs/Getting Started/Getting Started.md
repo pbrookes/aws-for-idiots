@@ -15,3 +15,7 @@ For the tutorials on this site, I've registered a free .tk domain via [dot tk](h
 ## An Amazon Account
 
 Assuming you already have an Amazon account for shopping, you can use that. The AWS account will also be linked to your credit card (or other payment method).
+
+## Software
+
+The good news is that you can do almost everything in AWS via a modern web browser. However I do recommend a good text editor; I personally use [Notepad ++](https://notepad-plus-plus.org).
