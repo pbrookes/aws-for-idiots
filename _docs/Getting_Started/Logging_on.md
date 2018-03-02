@@ -10,7 +10,7 @@ You will then be prompted to log in with your Amazon account. If you don't alrea
 
 You will then be confronted by a baffling number of AWS services; if they are not visible, they can be selected via **Services** in the top menu.
 
-The ones we're interested in are:
+The main services of interest to us are:
 
 1. Storage > [S3](https://s3.console.aws.amazon.com/s3)
 2. Network & Content Delivery > [Route 53](https://console.aws.amazon.com/route53)
