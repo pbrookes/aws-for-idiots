@@ -4,10 +4,12 @@ category: Getting Started
 order: 2
 ---
 
-Here is the pricing structure as far as I understand it.
+Below is an explanation of the pricing structure, as far as I understand it. Prices are in US dollars.
 
 The setup I describe on this site uses the following AWS services:
 
-* S3
-* Route 53
-* Cloudfront
+* **S3**—for storage
+* **Route 53**—put simply, this ensures all the disparate elements (storage, URLs and so on) are pointing at each other
+* **Cloudfront**—this makes copies of your pages and distributes them to servers worldwide. It's also necessary to use this if you want secure hosting (a padlock with an https:// in the URL)
+
+S3 is very cheap indeed and amounts to pennies per month, even if your website is really popular. Route 53 incurs the biggest charge and costs $0.50 per month for each domain you connect to it (brookes.tk in my examples).
