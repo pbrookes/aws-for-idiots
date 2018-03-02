@@ -11,3 +11,7 @@ Kind of obvious, but AWS's default domains are neither memorable nor pretty. Who
 Be aware that some providers discount the first year of ownership, only to increase the fee when it's time to be renewed. Some vendors will also hide your personal details as part of the fee, while others will charge for this service.
 
 For the tutorials on this site, I've registered a free .tk domain via [dot tk](http://www.dot.tk). This type of domain isn't  recommended for a professional website—they come across as being spammy—but it's something I can play around with for these tutorials, without the risk of messing up my personal website.
+
+## An Amazon Account
+
+Assuming you already have an Amazon account for shopping, you can use that. The AWS account will also be linked to your credit card (or other payment method).
